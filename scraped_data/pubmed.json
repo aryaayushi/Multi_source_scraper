@@ -1,0 +1,41 @@
+[
+    {
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/31452104/",
+        "source_type": "pubmed",
+        "author": "Gabriela Bitencourt-Ferreira, Walter Filgueira de Azevedo Jr, Gabriela Bitencourt-Ferreira, Walter Filgueira de Azevedo Jr",
+        "published_date": "2019:2053:149-167.",
+        "language": "en",
+        "region": "global",
+        "topic_tags": [
+            "docking",
+            "program",
+            "carry",
+            "simulations",
+            "programs"
+        ],
+        "content_chunks": [
+            "Molegro Virtual Docker for Docking Molegro Virtual Docker is a protein-ligand docking simulation program that allows us to carry out docking simulations in a fully integrated computational package. MVD has been successfully applied to hundreds of different proteins, with docking performance similar to other docking programs such as AutoDock4 and AutoDock Vina. The program MVD has four search algorithms and four native scoring functions. Considering that we may have water molecules or not in the docking simulations, we have a total of 32 docking protocols. The integration of the programs SAnDReS ( https://github.com/azevedolab/sandres ) and MVD opens the possibility to carry out a detailed statistical analysis of docking results, which adds to the native capabilities of the program MVD. In this chapter, we describe a tutorial to carry out docking simulations with MVD and how to perform a statistical analysis of the docking results with the program SAnDReS. To illustrate the integration of both programs, we describe the redocking simulation focused the cyclin-dependent kinase 2 in complex with a competitive inhibitor."
+        ],
+        "trust_score": 0.68
+    },
+    {
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/11005747/",
+        "source_type": "pubmed",
+        "author": "P T Diamond, P T Diamond",
+        "published_date": "2000 Aug 15;22(12):574-6.",
+        "language": "en",
+        "region": "global",
+        "topic_tags": [
+            "rehabilitation",
+            "anaemia",
+            "recovery",
+            "functional",
+            "during"
+        ],
+        "content_chunks": [
+            "Severe anaemia: implications for functional recovery during rehabilitation Purpose: This case report examines the hospital course and functional recovery of a geriatric patient with severe anaemia undergoing rehabilitation following total hip replacement. It serves to highlight the need for further study of the impact of anaemia on recovery in the rehabilitation setting as well as the importance of developing clinical guidelines for the appropriate medical management of anaemia in this patient population. Methods: Single case report. Results: The course of recovery during rehabilitation in a geriatric patient with severe post-operative anaemia was notably different from other geriatric patients undergoing rehabilitation following total hip replacement. The patient demonstrated a markedly reduced tolerance for therapies and prolonged length of stay, but did not experience cardiopulmonary complications during intensive rehabilitation. Her hematocrit responded nicely to treatment with human recombinant erythropoietin. Despite a prolonged recovery period, the patient ultimately progressed well and achieved a good functional outcome. Conclusions: The impact of anaemia on functional recovery in the acute inpatient rehabilitation setting as well as the theoretical risk of increased morbidity and mortality during prescribed therapeutic exercise has not been closely examined in the literature. Further study is indicated to examine the implications for anaemia",
+            "on functional recovery and cardiopulmonary complications during rehabilitation. General guidelines should be developed for the management of anaemia in the rehabilitation setting."
+        ],
+        "trust_score": 0.68
+    }
+]
